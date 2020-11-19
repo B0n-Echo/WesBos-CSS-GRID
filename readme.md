@@ -24,3 +24,6 @@ The Application uses browsersync for the local development which is an npm packa
 - [Placing Grid items](#-placing-grid-items)
 - [Using minmax() for responsive grids](#-used-by)
 - [License](#-license)
+
+
+### Intro
