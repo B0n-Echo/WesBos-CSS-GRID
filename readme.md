@@ -26,4 +26,7 @@ The Application uses browsersync for the local development which is an npm packa
 - [License](#-license)
 
 
-### Intro
+### Introduction
+
+
+### Setting up the Basics
